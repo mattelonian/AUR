@@ -1,0 +1,2937 @@
+[CustomCards]
+	[    {
+	        "name": "Hungering Lights",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Creature — Fox Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Hungering Lights.png"
+	        }
+	    },
+	    {
+	        "name": "Prophetic Prism",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Prophetic Prism.png"
+	        }
+	    },
+	    {
+	        "name": "Skullcreeper Blossom",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Skullcreeper Blossom.png"
+	        }
+	    },
+	    {
+	        "name": "Gorehorn Baloth",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Gorehorn Baloth.png"
+	        }
+	    },
+	    {
+	        "name": "Bloodmark Beetle",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Bloodmark Beetle.png"
+	        }
+	    },
+	    {
+	        "name": "Carrion Shrieker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Bird Mutant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Carrion Shrieker.png"
+	        }
+	    },
+	    {
+	        "name": "Sporespewer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Fungus ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Sporespewer.png"
+	        }
+	    },
+	    {
+	        "name": "Gore",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Gore.png"
+	        }
+	    },
+	    {
+	        "name": "Drag Below",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Drag Below.png"
+	        }
+	    },
+	    {
+	        "name": "Hyperventilate",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Hyperventilate.png"
+	        }
+	    },
+	    {
+	        "name": "Toskari Lookout",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Squirrel Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Toskari Lookout.png"
+	        }
+	    },
+	    {
+	        "name": "Crystalglow Brute",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Crystalglow Brute.png"
+	        }
+	    },
+	    {
+	        "name": "Pinewreathed Prowler",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Plant Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Pinewreathed Prowler.png"
+	        }
+	    },
+	    {
+	        "name": "King of the Forest",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Dinosaur Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/King of the Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Suffuse with Power",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Suffuse with Power.png"
+	        }
+	    },
+	    {
+	        "name": "Predate the Skies",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Predate the Skies.png"
+	        }
+	    },
+	    {
+	        "name": "Magmashell Turtle",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Turtle Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Magmashell Turtle.png"
+	        }
+	    },
+	    {
+	        "name": "Volcanic Toad",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Frog Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Volcanic Toad.png"
+	        }
+	    },
+	    {
+	        "name": "Dolnjar Crusher",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Bear ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Dolnjar Crusher.png"
+	        }
+	    },
+	    {
+	        "name": "Spirit of the Canyon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Fox Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Spirit of the Canyon.png"
+	        }
+	    },
+	    {
+	        "name": "Conflagration Wurm",
+	        "rarity": "common",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Wurm Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Conflagration Wurm.png"
+	        }
+	    },
+	    {
+	        "name": "Volatile Leap",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Volatile Leap.png"
+	        }
+	    },
+	    {
+	        "name": "Ephemeral Civet",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Cat Mongoose Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Ephemeral Civet.png"
+	        }
+	    },
+	    {
+	        "name": "Berryfield Drakeling",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Faerie Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Berryfield Drakeling.png"
+	        }
+	    },
+	    {
+	        "name": "Everfrost Hawk",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Everfrost Hawk.png"
+	        }
+	    },
+	    {
+	        "name": "Adventurous Ursine",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bear ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Adventurous Ursine.png"
+	        }
+	    },
+	    {
+	        "name": "Wavecrash Colossus",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Wavecrash Colossus.png"
+	        }
+	    },
+	    {
+	        "name": "Negate",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Negate.png"
+	        }
+	    },
+	    {
+	        "name": "Luminous Communion",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Luminous Communion.png"
+	        }
+	    },
+	    {
+	        "name": "Return to Aether",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Return to Aether.png"
+	        }
+	    },
+	    {
+	        "name": "Berry Picker",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Monkey Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Berry Picker.png"
+	        }
+	    },
+	    {
+	        "name": "Pack Scrounger",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Pack Scrounger.png"
+	        }
+	    },
+	    {
+	        "name": "Witness of the Skies",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Squirrel Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Witness of the Skies.png"
+	        }
+	    },
+	    {
+	        "name": "Toskari Hero",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Squirrel Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Toskari Hero.png"
+	        }
+	    },
+	    {
+	        "name": "Infused Owlbear",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Bird Bear ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Infused Owlbear.png"
+	        }
+	    },
+	    {
+	        "name": "Dawnfeather Roc",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Angel Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Dawnfeather Roc.png"
+	        }
+	    },
+	    {
+	        "name": "Protector of the Meek",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Capybara Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Protector of the Meek.png"
+	        }
+	    },
+	    {
+	        "name": "Pick Off",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Pick Off.png"
+	        }
+	    },
+	    {
+	        "name": "The Self Is A Reflection",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Kindred Sorcery — Sheep Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Self Is A Reflection.png"
+	        }
+	    },
+	    {
+	        "name": "Prismatic Rage",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Prismatic Rage.png"
+	        }
+	    },
+	    {
+	        "name": "Coruscating Lynx",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Coruscating Lynx.png"
+	        }
+	    },
+	    {
+	        "name": "Fleeting Memories",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Fleeting Memories.png"
+	        }
+	    },
+	    {
+	        "name": "Lone Spirit",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Spirit Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Lone Spirit.png"
+	        }
+	    },
+	    {
+	        "name": "Rampaging Hipposaur",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Dinosaur Hippo ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Rampaging Hipposaur.png"
+	        }
+	    },
+	    {
+	        "name": "Stampede of Beasts",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{X}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Stampede of Beasts.png"
+	        }
+	    },
+	    {
+	        "name": "Quiet Never Truly Falls",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Kindred Sorcery — Elk Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Quiet Never Truly Falls.png"
+	        }
+	    },
+	    {
+	        "name": "Manifest from Beyond",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Manifest from Beyond.png"
+	        }
+	    },
+	    {
+	        "name": "Crest the Stars",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{U}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Crest the Stars.png"
+	        }
+	    },
+	    {
+	        "name": "Stalk the Mind",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Stalk the Mind.png"
+	        }
+	    },
+	    {
+	        "name": "Manablossom",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Manablossom.png"
+	        }
+	    },
+	    {
+	        "name": "Final Confrontation",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Final Confrontation.png"
+	        }
+	    },
+	    {
+	        "name": "Hunter of Streams",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Creature — Crocodile Serpent ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Hunter of Streams.png"
+	        }
+	    },
+	    {
+	        "name": "Unearthed Past",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Unearthed Past.png"
+	        }
+	    },
+	    {
+	        "name": "Burn the Sky Down",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Burn the Sky Down.png"
+	        }
+	    },
+	    {
+	        "name": "Howl of Ancestry",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Howl of Ancestry.png"
+	        }
+	    },
+	    {
+	        "name": "Dolnjar Terror",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Dolnjar Terror.png"
+	        }
+	    },
+	    {
+	        "name": "Doln, End of All Things",
+	        "rarity": "rare",
+	        "mana_cost": "{10}{R}{R}",
+	        "type": "Legendary Creature — Demon Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Doln, End of All Things.png"
+	        }
+	    },
+	    {
+	        "name": "Molten Infusion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Molten Infusion.png"
+	        }
+	    },
+	    {
+	        "name": "Shardback Leviathan",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Creature — Leviathan ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Shardback Leviathan.png"
+	        }
+	    },
+	    {
+	        "name": "Manahunter Griffin",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Griffin Mutant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Manahunter Griffin.png"
+	        }
+	    },
+	    {
+	        "name": "Vali's Yearning",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Vali's Yearning.png"
+	        }
+	    },
+	    {
+	        "name": "Writ in Starlight",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Writ in Starlight.png"
+	        }
+	    },
+	    {
+	        "name": "Aethergorged Condor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Aethergorged Condor.png"
+	        }
+	    },
+	    {
+	        "name": "Step Among Clouds",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Step Among Clouds.png"
+	        }
+	    },
+	    {
+	        "name": "Trek Upwards",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Trek Upwards.png"
+	        }
+	    },
+	    {
+	        "name": "Wandering Lustre",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Creature — Cat Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Wandering Lustre.png"
+	        }
+	    },
+	    {
+	        "name": "Eiyo's Guardian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{7}",
+	        "type": "Artifact Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Eiyo's Guardian.png"
+	        }
+	    },
+	    {
+	        "name": "Igneous Tiger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Cat Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Igneous Tiger.png"
+	        }
+	    },
+	    {
+	        "name": "Return Through Rot",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Return Through Rot.png"
+	        }
+	    },
+	    {
+	        "name": "Starvation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Starvation.png"
+	        }
+	    },
+	    {
+	        "name": "The Mind's Eye Slips All Bonds",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Kindred Sorcery — Bat Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Mind's Eye Slips All Bonds.png"
+	        }
+	    },
+	    {
+	        "name": "Aether Parasite",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Aether Parasite.png"
+	        }
+	    },
+	    {
+	        "name": "Skolweald Veteran",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Squirrel Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Skolweald Veteran.png"
+	        }
+	    },
+	    {
+	        "name": "Cragskin Rhino",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Rhino ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Cragskin Rhino.png"
+	        }
+	    },
+	    {
+	        "name": "Firebelly Frogan",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Frog Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Firebelly Frogan.png"
+	        }
+	    },
+	    {
+	        "name": "Crystal Carapace",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Crystal Carapace.png"
+	        }
+	    },
+	    {
+	        "name": "Mire Blossoms",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Mire Blossoms.png"
+	        }
+	    },
+	    {
+	        "name": "Memories of Forgotten Heroes",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Kindred Sorcery — Squirrel Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Memories of Forgotten Heroes.png"
+	        }
+	    },
+	    {
+	        "name": "Luminous Fen",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Luminous Fen.png"
+	        }
+	    },
+	    {
+	        "name": "Luminous Peaks",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Luminous Peaks.png"
+	        }
+	    },
+	    {
+	        "name": "Luminous Copse",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Luminous Copse.png"
+	        }
+	    },
+	    {
+	        "name": "Ashcrystal Moloch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Lizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Ashcrystal Moloch.png"
+	        }
+	    },
+	    {
+	        "name": "Slag Gorger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Slag Gorger.png"
+	        }
+	    },
+	    {
+	        "name": "Solar Eclipse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Solar Eclipse.png"
+	        }
+	    },
+	    {
+	        "name": "Young Hipposaur",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Dinosaur Hippo ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Young Hipposaur.png"
+	        }
+	    },
+	    {
+	        "name": "Tidemare",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Horse Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Tidemare.png"
+	        }
+	    },
+	    {
+	        "name": "Borealis Swimmer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Illusion Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Borealis Swimmer.png"
+	        }
+	    },
+	    {
+	        "name": "Icicle Tromper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Ox ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Icicle Tromper.png"
+	        }
+	    },
+	    {
+	        "name": "Fledgeling Forager",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Bird Bear ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Fledgeling Forager.png"
+	        }
+	    },
+	    {
+	        "name": "Polar Moose",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Polar Moose.png"
+	        }
+	    },
+	    {
+	        "name": "Apprentice Luminant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Squirrel Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Apprentice Luminant.png"
+	        }
+	    },
+	    {
+	        "name": "Run with the Spirit Pack",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Run with the Spirit Pack.png"
+	        }
+	    },
+	    {
+	        "name": "Wayfarer's Shrine",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Wayfarer's Shrine.png"
+	        }
+	    },
+	    {
+	        "name": "Prey On The Frailty of Strength",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Kindred Sorcery — Crocodile Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Prey On The Frailty of Strength.png"
+	        }
+	    },
+	    {
+	        "name": "Passion's Warmth Burns",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Kindred Sorcery — Lizard Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Passion's Warmth Burns.png"
+	        }
+	    },
+	    {
+	        "name": "The Careful Designs of Instinct",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Kindred Sorcery — Goat Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Careful Designs of Instinct.png"
+	        }
+	    },
+	    {
+	        "name": "The Forest Of A Tree",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Kindred Sorcery — Elk Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Forest Of A Tree.png"
+	        }
+	    },
+	    {
+	        "name": "Lucent Quag",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Lucent Quag.png"
+	        }
+	    },
+	    {
+	        "name": "Sundappled Cove",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Sundappled Cove.png"
+	        }
+	    },
+	    {
+	        "name": "Glistering Canopy",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Glistering Canopy.png"
+	        }
+	    },
+	    {
+	        "name": "Swooping Strix",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Swooping Strix.png"
+	        }
+	    },
+	    {
+	        "name": "Lies Are Themselves A Truth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Kindred Sorcery — Fox Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Lies Are Themselves A Truth.png"
+	        }
+	    },
+	    {
+	        "name": "Walker of Starlit Paths",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Walker of Starlit Paths.png"
+	        }
+	    },
+	    {
+	        "name": "Hellfire Maw",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Creature — Demon Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Hellfire Maw.png"
+	        }
+	    },
+	    {
+	        "name": "Empyrean Stalker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Creature — Griffin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Empyrean Stalker.png"
+	        }
+	    },
+	    {
+	        "name": "Fungal Glow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Fungal Glow.png"
+	        }
+	    },
+	    {
+	        "name": "Frosthorn Akhos",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Elemental Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Frosthorn Akhos.png"
+	        }
+	    },
+	    {
+	        "name": "The Reflection Gazes Back",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}",
+	        "type": "Kindred Instant — Elk Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Reflection Gazes Back.png"
+	        }
+	    },
+	    {
+	        "name": "Time's Waves Ripple",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Kindred Sorcery — Fish Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Time's Waves Ripple.png"
+	        }
+	    },
+	    {
+	        "name": "Permanence Is Temporary",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Kindred Sorcery — Phoenix Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Permanence Is Temporary.png"
+	        }
+	    },
+	    {
+	        "name": "BL02 Island",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL02 Island.png"
+	        }
+	    },
+	    {
+	        "name": "The Unseen Eternity of Night",
+	        "rarity": "mythic",
+	        "mana_cost": "{U}{B}",
+	        "type": "Kindred Sorcery — Otter Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Unseen Eternity of Night.png"
+	        }
+	    },
+	    {
+	        "name": "The Body Masters The Mind",
+	        "rarity": "mythic",
+	        "mana_cost": "{R}{G}",
+	        "type": "Kindred Sorcery — Rhino Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Body Masters The Mind.png"
+	        }
+	    },
+	    {
+	        "name": "The Sun Rises As It Falls",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Kindred Sorcery — Horse Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Sun Rises As It Falls.png"
+	        }
+	    },
+	    {
+	        "name": "The Circle Of Life Is A Spiral",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Kindred Sorcery — Basilisk Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Circle Of Life Is A Spiral.png"
+	        }
+	    },
+	    {
+	        "name": "The End of Infinity",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Kindred Sorcery — Drake Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The End of Infinity.png"
+	        }
+	    },
+	    {
+	        "name": "The Space Between Moments",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}",
+	        "type": "Kindred Sorcery — Bird Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Space Between Moments.png"
+	        }
+	    },
+	    {
+	        "name": "Growth Is Mere Perspective",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Kindred Sorcery — Hydra Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Growth Is Mere Perspective.png"
+	        }
+	    },
+	    {
+	        "name": "Bask in Sunlight",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Bask in Sunlight.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Elk",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Elk.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Wolf",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Wolf.png"
+	        }
+	    },
+	    {
+	        "name": "Veil of the Aurora",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W/U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Veil of the Aurora.png"
+	        }
+	    },
+	    {
+	        "name": "Touch of Flame",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Touch of Flame.png"
+	        }
+	    },
+	    {
+	        "name": "Majestic Frosthorn",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Elemental Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Majestic Frosthorn.png"
+	        }
+	    },
+	    {
+	        "name": "Invoke the Lights",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G/U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Invoke the Lights.png"
+	        }
+	    },
+	    {
+	        "name": "Phoenixfire",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R/W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Phoenixfire.png"
+	        }
+	    },
+	    {
+	        "name": "Radiant Rebuff",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W/B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Radiant Rebuff.png"
+	        }
+	    },
+	    {
+	        "name": "Inferno Breath",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R/G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Inferno Breath.png"
+	        }
+	    },
+	    {
+	        "name": "Boreal Expanse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Boreal Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Celestial Grotto",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Celestial Grotto.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Bird",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Bird.png"
+	        }
+	    },
+	    {
+	        "name": "Lifter Griffin",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Griffin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Lifter Griffin.png"
+	        }
+	    },
+	    {
+	        "name": "Grassland Jackalope",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Rabbit Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Grassland Jackalope.png"
+	        }
+	    },
+	    {
+	        "name": "Honeyfield Shepherd",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Ouphe ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Honeyfield Shepherd.png"
+	        }
+	    },
+	    {
+	        "name": "Wyrmsbane",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Wyrmsbane.png"
+	        }
+	    },
+	    {
+	        "name": "Vanguard Longsword",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Vanguard Longsword.png"
+	        }
+	    },
+	    {
+	        "name": "Infernal Morass",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Infernal Morass.png"
+	        }
+	    },
+	    {
+	        "name": "Spiring Rime",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Spiring Rime.png"
+	        }
+	    },
+	    {
+	        "name": "BL01 Plains",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL01 Plains.png"
+	        }
+	    },
+	    {
+	        "name": "BL05 Forest",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL05 Forest.png"
+	        }
+	    },
+	    {
+	        "name": "BL03 Swamp",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL03 Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "BL04 Mountain",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL04 Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "Flowering Vista",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Flowering Vista.png"
+	        }
+	    },
+	    {
+	        "name": "Autumnal Thicket",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Autumnal Thicket.png"
+	        }
+	    },
+	    {
+	        "name": "Shrouded Heath",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Shrouded Heath.png"
+	        }
+	    },
+	    {
+	        "name": "Deathbloom",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Deathbloom.png"
+	        }
+	    },
+	    {
+	        "name": "Ambling Dewdrop",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Ambling Dewdrop.png"
+	        }
+	    },
+	    {
+	        "name": "Lustrous Lurker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Crocodile ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Lustrous Lurker.png"
+	        }
+	    },
+	    {
+	        "name": "Plaguewolf",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Plaguewolf.png"
+	        }
+	    },
+	    {
+	        "name": "Charging Visceram",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie Sheep ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Charging Visceram.png"
+	        }
+	    },
+	    {
+	        "name": "Eiyo Ascendant",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Legendary Planeswalker — Eiyo ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Eiyo Ascendant.png"
+	        }
+	    },
+	    {
+	        "name": "Gloomstep Panther",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Gloomstep Panther.png"
+	        }
+	    },
+	    {
+	        "name": "PROMO Wayfarer's Shrine",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/PROMO Wayfarer's Shrine.png"
+	        }
+	    },
+	    {
+	        "name": "Lurking in the Shallows",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U/B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Lurking in the Shallows.png"
+	        }
+	    },
+	    {
+	        "name": "Feverbloom",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Plant Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Feverbloom.png"
+	        }
+	    },
+	    {
+	        "name": "To Fall Forever Is To Fly",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Kindred Sorcery — Bird Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/To Fall Forever Is To Fly.png"
+	        }
+	    },
+	    {
+	        "name": "Stormshrike",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Elemental Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Stormshrike.png"
+	        }
+	    },
+	    {
+	        "name": "Adaptive Combat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Adaptive Combat.png"
+	        }
+	    },
+	    {
+	        "name": "Autumnal Summons",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Autumnal Summons.png"
+	        }
+	    },
+	    {
+	        "name": "Humiliate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Humiliate.png"
+	        }
+	    },
+	    {
+	        "name": "Omen of Woe",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Unicorn ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Omen of Woe.png"
+	        }
+	    },
+	    {
+	        "name": "Luminous Sheets",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Luminous Sheets.png"
+	        }
+	    },
+	    {
+	        "name": "The Illusion of a Chill",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Kindred Sorcery — Bear Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Illusion of a Chill.png"
+	        }
+	    },
+	    {
+	        "name": "Reefcrown Drake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Jellyfish Plant Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Reefcrown Drake.png"
+	        }
+	    },
+	    {
+	        "name": "Efferpheasant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Efferpheasant.png"
+	        }
+	    },
+	    {
+	        "name": "Bloomwarden",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Bear ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Bloomwarden.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Elemental",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Elemental.png"
+	        }
+	    },
+	    {
+	        "name": "Vali the Curious",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Legendary Planeswalker — Vali ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Vali the Curious.png"
+	        }
+	    },
+	    {
+	        "name": "Treetop Pangolin",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Pangolin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Treetop Pangolin.png"
+	        }
+	    },
+	    {
+	        "name": "The Moon Howls Back",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Kindred Sorcery — Wolf Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Moon Howls Back.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Rabbit",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Rabbit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Rabbit.png"
+	        }
+	    },
+	    {
+	        "name": "Aether Scrounger",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Hyena ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Aether Scrounger.png"
+	        }
+	    },
+	    {
+	        "name": "Elemental Burst",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U/R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Elemental Burst.png"
+	        }
+	    },
+	    {
+	        "name": "Tectonic Hazard",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Tectonic Hazard.png"
+	        }
+	    },
+	    {
+	        "name": "Fox of the Verdant Grove",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Fox ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Fox of the Verdant Grove.png"
+	        }
+	    },
+	    {
+	        "name": "Light Too Casts Shadow",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{B}",
+	        "type": "Kindred Sorcery — Cat Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Light Too Casts Shadow.png"
+	        }
+	    },
+	    {
+	        "name": "Kitstealer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Nightmare Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Kitstealer.png"
+	        }
+	    },
+	    {
+	        "name": "AUR DRAFT ARCHETYPES",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/AUR DRAFT ARCHETYPES.png"
+	        }
+	    },
+	    {
+	        "name": "Flamewalker Hart",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Elk Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Flamewalker Hart.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Plant",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Plant.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Beast",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Beast.png"
+	        }
+	    },
+	    {
+	        "name": "Glimmerstalker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Glimmerstalker.png"
+	        }
+	    },
+	    {
+	        "name": "Myriad Shades of Silence",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Kindred Sorcery — Bird Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Myriad Shades of Silence.png"
+	        }
+	    },
+	    {
+	        "name": "The Unending Never Began",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Kindred Sorcery — Snake Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Unending Never Began.png"
+	        }
+	    },
+	    {
+	        "name": "Become What Always Was",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Kindred Sorcery — Sheep Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Become What Always Was.png"
+	        }
+	    },
+	    {
+	        "name": "Skolweald Vanguard",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Squirrel Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Skolweald Vanguard.png"
+	        }
+	    },
+	    {
+	        "name": "A Calm Rage Simmers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Kindred Sorcery — Ape Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/A Calm Rage Simmers.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Treasure",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Treasure ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Treasure.png"
+	        }
+	    },
+	    {
+	        "name": "Pouncing Jackewolf",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Rabbit Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Pouncing Jackewolf.png"
+	        }
+	    },
+	    {
+	        "name": "Rocktusk Boar",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Boar Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Rocktusk Boar.png"
+	        }
+	    },
+	    {
+	        "name": "Alexa, Whose Steps Blossom",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Legendary Planeswalker — Alexa ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Alexa, Whose Steps Blossom.png"
+	        }
+	    },
+	    {
+	        "name": "Aurora Reminder",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Reminder",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Aurora Reminder.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Land",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Land.png"
+	        }
+	    },
+	    {
+	        "name": "Parasitize",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Parasitize.png"
+	        }
+	    },
+	    {
+	        "name": "Hunted by the Pack",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Hunted by the Pack.png"
+	        }
+	    },
+	    {
+	        "name": "Gemeye Crab",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Crab ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Gemeye Crab.png"
+	        }
+	    },
+	    {
+	        "name": "Dreadbore",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Dreadbore.png"
+	        }
+	    },
+	    {
+	        "name": "Tunnelling Slugmole",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Slug Mole ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Tunnelling Slugmole.png"
+	        }
+	    },
+	    {
+	        "name": "Silence of the Drowned",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Silence of the Drowned.png"
+	        }
+	    },
+	    {
+	        "name": "Distraction",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Distraction.png"
+	        }
+	    },
+	    {
+	        "name": "Transfixed by Wonder",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Transfixed by Wonder.png"
+	        }
+	    },
+	    {
+	        "name": "Curiosity",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Curiosity.png"
+	        }
+	    },
+	    {
+	        "name": "Light of the Phoenix",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Light of the Phoenix.png"
+	        }
+	    },
+	    {
+	        "name": "Crystal Breath",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Crystal Breath.png"
+	        }
+	    },
+	    {
+	        "name": "Aetherflame Hunting",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Aetherflame Hunting.png"
+	        }
+	    },
+	    {
+	        "name": "Violent Thrash",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Violent Thrash.png"
+	        }
+	    },
+	    {
+	        "name": "Aether Figment",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Creature — Bird Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Aether Figment.png"
+	        }
+	    },
+	    {
+	        "name": "Verdant Bloom",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Verdant Bloom.png"
+	        }
+	    },
+	    {
+	        "name": "Imbued with Aether",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Imbued with Aether.png"
+	        }
+	    },
+	    {
+	        "name": "Eddies In The Stream Of Fate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Kindred Sorcery — Serpent Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Eddies In The Stream Of Fate.png"
+	        }
+	    },
+	    {
+	        "name": "Unity Through Difference",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Kindred Sorcery — Cat Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Unity Through Difference.png"
+	        }
+	    },
+	    {
+	        "name": "Peculiar Pollywogs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Frog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Peculiar Pollywogs.png"
+	        }
+	    },
+	    {
+	        "name": "Only Love Births True Hate",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}{R}",
+	        "type": "Kindred Sorcery — Ox Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Only Love Births True Hate.png"
+	        }
+	    },
+	    {
+	        "name": "Toskari Aetherblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Toskari Aetherblade.png"
+	        }
+	    },
+	    {
+	        "name": "Nurturing Shelter",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Nurturing Shelter.png"
+	        }
+	    },
+	    {
+	        "name": "Pondstepper Chick",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Creature — Bird Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Pondstepper Chick.png"
+	        }
+	    },
+	    {
+	        "name": "Repel with Flame",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Repel with Flame.png"
+	        }
+	    },
+	    {
+	        "name": "Winter's Stash",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Winter's Stash.png"
+	        }
+	    },
+	    {
+	        "name": "Vulpine Razer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Creature — Demon Fox ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Vulpine Razer.png"
+	        }
+	    },
+	    {
+	        "name": "Hydroid Krasis",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{G}{U}",
+	        "type": "Creature — Jellyfish Hydra Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Hydroid Krasis.png"
+	        }
+	    },
+	    {
+	        "name": "Mold Frog",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}",
+	        "type": "Creature — Fungus Frog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Mold Frog.png"
+	        }
+	    },
+	    {
+	        "name": "Refraction Lynx",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Refraction Lynx.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Fungus",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Fungus ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Fungus.png"
+	        }
+	    },
+	    {
+	        "name": "Ascend",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Ascend.png"
+	        }
+	    },
+	    {
+	        "name": "Glow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Glow.png"
+	        }
+	    },
+	    {
+	        "name": "Toskari Trueshot",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Squirrel Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Toskari Trueshot.png"
+	        }
+	    },
+	    {
+	        "name": "Essence Gouger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Essence Gouger.png"
+	        }
+	    },
+	    {
+	        "name": "Quag Festerer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Rat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Quag Festerer.png"
+	        }
+	    },
+	    {
+	        "name": "Bloodleecher Drake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Vampire Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Bloodleecher Drake.png"
+	        }
+	    },
+	    {
+	        "name": "Effigy of Tranquility",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Effigy of Tranquility.png"
+	        }
+	    },
+	    {
+	        "name": "Effigy of Shelter",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Wolf Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Effigy of Shelter.png"
+	        }
+	    },
+	    {
+	        "name": "Autumn Strider",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Creature — Elk Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Autumn Strider.png"
+	        }
+	    },
+	    {
+	        "name": "Simul, Aether Scholar",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Legendary Planeswalker — Simul ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Simul, Aether Scholar.png"
+	        }
+	    },
+	    {
+	        "name": "Suffocate in Aether",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Suffocate in Aether.png"
+	        }
+	    },
+	    {
+	        "name": "Shadecrawler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Nightmare Fungus Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Shadecrawler.png"
+	        }
+	    },
+	    {
+	        "name": "Shimmer Pack",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Shimmer Pack.png"
+	        }
+	    },
+	    {
+	        "name": "Keep Vigil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Keep Vigil.png"
+	        }
+	    },
+	    {
+	        "name": "Spirits' Protection",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Spirits' Protection.png"
+	        }
+	    },
+	    {
+	        "name": "Vorzanthirax, the Riftdweller",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}",
+	        "type": "Legendary Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Vorzanthirax, the Riftdweller.png"
+	        }
+	    },
+	    {
+	        "name": "Aether Invigoration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Aether Invigoration.png"
+	        }
+	    },
+	    {
+	        "name": "Wings of the Aurora",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Wings of the Aurora.png"
+	        }
+	    },
+	    {
+	        "name": "Gemstone Tyrant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Gemstone Tyrant.png"
+	        }
+	    },
+	    {
+	        "name": "Return from Ash",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Return from Ash.png"
+	        }
+	    },
+	    {
+	        "name": "Firemane Charger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Creature — Elemental Unicorn ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Firemane Charger.png"
+	        }
+	    },
+	    {
+	        "name": "Gilded Flower",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Gilded Flower.png"
+	        }
+	    },
+	    {
+	        "name": "Borewurm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental Wurm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Borewurm.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Crocodile",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Crocodile ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Crocodile.png"
+	        }
+	    },
+	    {
+	        "name": "Rend and Tear",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Rend and Tear.png"
+	        }
+	    },
+	    {
+	        "name": "Cruel Survival",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Cruel Survival.png"
+	        }
+	    },
+	    {
+	        "name": "Phantasmal Stride",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Phantasmal Stride.png"
+	        }
+	    },
+	    {
+	        "name": "Spirits of the Weald",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Spirits of the Weald.png"
+	        }
+	    },
+	    {
+	        "name": "Fluffle",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G/W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Fluffle.png"
+	        }
+	    },
+	    {
+	        "name": "Luminous Pasture",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Luminous Pasture.png"
+	        }
+	    },
+	    {
+	        "name": "Start Over",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Start Over.png"
+	        }
+	    },
+	    {
+	        "name": "The Dreadmold",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Legendary Creature — Fungus ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Dreadmold.png"
+	        }
+	    },
+	    {
+	        "name": "Askalla, Stars' Conduit",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Creature — Squirrel Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Askalla, Stars' Conduit.png"
+	        }
+	    },
+	    {
+	        "name": "Skorag, Toskari Elder",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Legendary Creature — Squirrel Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Skorag, Toskari Elder.png"
+	        }
+	    },
+	    {
+	        "name": "Banefeather Griffin",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Griffin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Banefeather Griffin.png"
+	        }
+	    },
+	    {
+	        "name": "Chosen of the Heavens",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature — Squirrel Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Chosen of the Heavens.png"
+	        }
+	    },
+	    {
+	        "name": "Craneriders",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Creature — Squirrel Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Craneriders.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Beast Avatar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Beast Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Beast Avatar.png"
+	        }
+	    },
+	    {
+	        "name": "Beyond the Aurora",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{G}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Beyond the Aurora.png"
+	        }
+	    },
+	    {
+	        "name": "Lifestep Caribou",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{G}",
+	        "type": "Creature — Spirit Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Lifestep Caribou.png"
+	        }
+	    },
+	    {
+	        "name": "The Still Breeze Blows",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Kindred Sorcery — Bird Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/The Still Breeze Blows.png"
+	        }
+	    },
+	    {
+	        "name": "Dawn's Inexorable Creep",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Kindred Sorcery — Bird Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Dawn's Inexorable Creep.png"
+	        }
+	    },
+	    {
+	        "name": "A Fragment Contains The Whole",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Kindred Sorcery — Ox Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/A Fragment Contains The Whole.png"
+	        }
+	    },
+	    {
+	        "name": "Transplanar Epiphany",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Transplanar Epiphany.png"
+	        }
+	    },
+	    {
+	        "name": "Territorial Arnyx",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Cat Lizard Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Territorial Arnyx.png"
+	        }
+	    },
+	    {
+	        "name": "Aspect of Radiance",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Creature — Bird Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Aspect of Radiance.png"
+	        }
+	    },
+	    {
+	        "name": "Eiyo's Understanding",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Eiyo's Understanding.png"
+	        }
+	    },
+	    {
+	        "name": "Alexa's Catharsis",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Alexa's Catharsis.png"
+	        }
+	    },
+	    {
+	        "name": "Wei Ji's Judgement",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Wei Ji's Judgement.png"
+	        }
+	    },
+	    {
+	        "name": "Beyond the Aurora Card Pack",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Beyond the Aurora Card Pack.png"
+	        }
+	    },
+	    {
+	        "name": "Prowling Wolfshark",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Shark Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Prowling Wolfshark.png"
+	        }
+	    },
+	    {
+	        "name": "Celestial Swallower",
+	        "rarity": "rare",
+	        "mana_cost": "{7}",
+	        "type": "Creature — Serpent Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Celestial Swallower.png"
+	        }
+	    },
+	    {
+	        "name": "Unbreakable Ironhide",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Unbreakable Ironhide.png"
+	        }
+	    },
+	    {
+	        "name": "Frostarmor Wolf",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Spirit Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Frostarmor Wolf.png"
+	        }
+	    },
+	    {
+	        "name": "Forgotten Idol",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Forgotten Idol.png"
+	        }
+	    },
+	    {
+	        "name": "Herald the End",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Herald the End.png"
+	        }
+	    },
+	    {
+	        "name": "Simul's Exploration",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Simul's Exploration.png"
+	        }
+	    },
+	    {
+	        "name": "Florescence",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Florescence.png"
+	        }
+	    },
+	    {
+	        "name": "Perdition Mare",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Nightmare Unicorn ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Perdition Mare.png"
+	        }
+	    },
+	    {
+	        "name": "Wei Ji of the Veil",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Planeswalker — Ji ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Wei Ji of the Veil.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Swamp Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Land — Swamp Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Swamp Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Infected Touch",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Infected Touch.png"
+	        }
+	    },
+	    {
+	        "name": "Aetherflame Pouncer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Cat Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Aetherflame Pouncer.png"
+	        }
+	    },
+	    {
+	        "name": "Fall for the Bait",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Fall for the Bait.png"
+	        }
+	    },
+	    {
+	        "name": "Seek the Rift",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Seek the Rift.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Bear",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Bear ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Bear.png"
+	        }
+	    },
+	    {
+	        "name": "BL10 Forest",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL10 Forest.png"
+	        }
+	    },
+	    {
+	        "name": "BL09 Mountain",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL09 Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "BL08 Swamp",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL08 Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "BL06 Plains",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL06 Plains.png"
+	        }
+	    },
+	    {
+	        "name": "BL07 Island",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/BL07 Island.png"
+	        }
+	    },
+	    {
+	        "name": "Dandecrab",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Plant Crab ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/Dandecrab.png"
+	        }
+	    },
+	    {
+	        "name": "TKN Squirrel",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Squirrel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mattelonian/AUR/main/AUR-files/TKN Squirrel.png"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		3 Coruscating Lynx
+		3 Fleeting Memories
+		3 Lone Spirit
+		3 Rampaging Hipposaur
+		3 Stampede of Beasts
+		3 Quiet Never Truly Falls
+		3 Manifest from Beyond
+		3 Crest the Stars
+		3 Stalk the Mind
+		3 Manablossom
+		3 Final Confrontation
+		3 Hunter of Streams
+		3 Unearthed Past
+		3 Burn the Sky Down
+		3 Howl of Ancestry
+		3 Dolnjar Terror
+		3 Doln, End of All Things
+		3 Shardback Leviathan
+		3 Manahunter Griffin
+		3 Vali's Yearning
+		3 Writ in Starlight
+		3 Aethergorged Condor
+		3 Step Among Clouds
+		3 Trek Upwards
+		3 Time's Waves Ripple
+		3 Permanence Is Temporary
+		3 The Unending Never Began
+		3 Unity Through Difference
+		3 Repel with Flame
+		3 Winter's Stash
+		3 Vulpine Razer
+		3 Hydroid Krasis
+		3 Mold Frog
+		3 Refraction Lynx
+		3 Rend and Tear
+		3 Cruel Survival
+		3 The Dreadmold
+		3 Askalla, Stars' Conduit
+		3 Skorag, Toskari Elder
+		3 Banefeather Griffin
+		3 Craneriders
+		3 Lifestep Caribou
+		3 Territorial Arnyx
+		3 Aspect of Radiance
+		3 Eiyo's Understanding
+		3 Alexa's Catharsis
+		3 Wei Ji's Judgement
+		3 Prowling Wolfshark
+		3 Celestial Swallower
+		3 Unbreakable Ironhide
+		3 Forgotten Idol
+		3 Herald the End
+		3 Simul's Exploration
+		3 Perdition Mare
+		3 Infected Touch
+		3 Aetherflame Pouncer
+		3 Seek the Rift
+		1 Prismatic Rage
+		1 The Unseen Eternity of Night
+		1 The Body Masters The Mind
+		1 The Sun Rises As It Falls
+		1 The Circle Of Life Is A Spiral
+		1 The End of Infinity
+		1 The Space Between Moments
+		1 Growth Is Mere Perspective
+		1 Eiyo Ascendant
+		1 Vali the Curious
+		1 Light Too Casts Shadow
+		1 Become What Always Was
+		1 Alexa, Whose Steps Blossom
+		1 Only Love Births True Hate
+		1 Simul, Aether Scholar
+		1 Vorzanthirax, the Riftdweller
+		1 Beyond the Aurora
+		1 Transplanar Epiphany
+		1 Frostarmor Wolf
+		1 Florescence
+		1 Wei Ji of the Veil
+	[UncommonSlot(3)]
+		5 Spirit of the Canyon
+		5 Molten Infusion
+		5 Wandering Lustre
+		5 Eiyo's Guardian
+		5 Igneous Tiger
+		5 Return Through Rot
+		5 Starvation
+		5 Aether Parasite
+		5 Skolweald Veteran
+		5 Cragskin Rhino
+		5 Firebelly Frogan
+		5 Mire Blossoms
+		5 Memories of Forgotten Heroes
+		5 Ashcrystal Moloch
+		5 Slag Gorger
+		5 Solar Eclipse
+		5 Young Hipposaur
+		5 Tidemare
+		5 Borealis Swimmer
+		5 Icicle Tromper
+		5 Fledgeling Forager
+		5 Polar Moose
+		5 Apprentice Luminant
+		5 Run with the Spirit Pack
+		5 Swooping Strix
+		5 Lies Are Themselves A Truth
+		5 Walker of Starlit Paths
+		5 Hellfire Maw
+		5 Empyrean Stalker
+		5 Fungal Glow
+		5 Frosthorn Akhos
+		5 The Reflection Gazes Back
+		5 Plaguewolf
+		5 To Fall Forever Is To Fly
+		5 Adaptive Combat
+		5 Autumnal Summons
+		5 Humiliate
+		5 Reefcrown Drake
+		5 Efferpheasant
+		5 A Calm Rage Simmers
+		5 Dreadbore
+		5 Light of the Phoenix
+		5 Eddies In The Stream Of Fate
+		5 Peculiar Pollywogs
+		5 Toskari Aetherblade
+		5 Pondstepper Chick
+		5 Ascend
+		5 Glow
+		5 Toskari Trueshot
+		5 Essence Gouger
+		5 Quag Festerer
+		5 Bloodleecher Drake
+		5 Effigy of Tranquility
+		5 Autumn Strider
+		5 Suffocate in Aether
+		5 Shadecrawler
+		5 Shimmer Pack
+		5 Keep Vigil
+		5 Spirits' Protection
+		5 Aether Invigoration
+		5 Wings of the Aurora
+		5 Gemstone Tyrant
+		5 Return from Ash
+		5 Firemane Charger
+		5 Borewurm
+		5 Phantasmal Stride
+		5 Spirits of the Weald
+		5 Start Over
+		5 Chosen of the Heavens
+		5 Dawn's Inexorable Creep
+		5 A Fragment Contains The Whole
+		5 Fall for the Bait
+		5 Dandecrab
+	[CommonSlot(10)]
+		12 Hungering Lights
+		12 Prophetic Prism
+		12 Skullcreeper Blossom
+		12 Gorehorn Baloth
+		12 Bloodmark Beetle
+		12 Carrion Shrieker
+		12 Sporespewer
+		12 Gore
+		12 Drag Below
+		12 Hyperventilate
+		12 Toskari Lookout
+		12 Crystalglow Brute
+		12 Pinewreathed Prowler
+		12 King of the Forest
+		12 Suffuse with Power
+		12 Predate the Skies
+		12 Magmashell Turtle
+		12 Volcanic Toad
+		12 Dolnjar Crusher
+		12 Conflagration Wurm
+		12 Volatile Leap
+		12 Ephemeral Civet
+		12 Berryfield Drakeling
+		12 Everfrost Hawk
+		12 Adventurous Ursine
+		12 Wavecrash Colossus
+		12 Negate
+		12 Luminous Communion
+		12 Return to Aether
+		12 Berry Picker
+		12 Pack Scrounger
+		12 Witness of the Skies
+		12 Toskari Hero
+		12 Infused Owlbear
+		12 Dawnfeather Roc
+		12 Protector of the Meek
+		12 Pick Off
+		12 The Self Is A Reflection
+		12 The Mind's Eye Slips All Bonds
+		12 Crystal Carapace
+		12 Prey On The Frailty of Strength
+		12 Passion's Warmth Burns
+		12 The Careful Designs of Instinct
+		12 The Forest Of A Tree
+		12 Bask in Sunlight
+		12 Veil of the Aurora
+		12 Touch of Flame
+		12 Majestic Frosthorn
+		12 Invoke the Lights
+		12 Phoenixfire
+		12 Radiant Rebuff
+		12 Inferno Breath
+		12 Lifter Griffin
+		12 Grassland Jackalope
+		12 Honeyfield Shepherd
+		12 Wyrmsbane
+		12 Vanguard Longsword
+		12 Deathbloom
+		12 Ambling Dewdrop
+		12 Lustrous Lurker
+		12 Charging Visceram
+		12 Gloomstep Panther
+		12 Lurking in the Shallows
+		12 Feverbloom
+		12 Stormshrike
+		12 Omen of Woe
+		12 The Illusion of a Chill
+		12 Bloomwarden
+		12 Treetop Pangolin
+		12 The Moon Howls Back
+		12 Aether Scrounger
+		12 Elemental Burst
+		12 Tectonic Hazard
+		12 Fox of the Verdant Grove
+		12 Kitstealer
+		12 Flamewalker Hart
+		12 Glimmerstalker
+		12 Myriad Shades of Silence
+		12 Skolweald Vanguard
+		12 Pouncing Jackewolf
+		12 Rocktusk Boar
+		12 Parasitize
+		12 Hunted by the Pack
+		12 Gemeye Crab
+		12 Tunnelling Slugmole
+		12 Silence of the Drowned
+		12 Distraction
+		12 Transfixed by Wonder
+		12 Curiosity
+		12 Crystal Breath
+		12 Aetherflame Hunting
+		12 Violent Thrash
+		12 Aether Figment
+		12 Verdant Bloom
+		12 Imbued with Aether
+		12 Nurturing Shelter
+		12 Effigy of Shelter
+		12 Gilded Flower
+		12 Fluffle
+		12 The Still Breeze Blows
+	[LandSlot(1)]
+		12 Lucent Quag
+		12 Sundappled Cove
+		12 Glistering Canopy
+		12 Boreal Expanse
+		12 Celestial Grotto
+		12 Infernal Morass
+		12 Spiring Rime
+		12 Flowering Vista
+		12 Autumnal Thicket
+		12 Shrouded Heath
+		9 Wayfarer's Shrine
+		5 Luminous Pasture
+		5 Luminous Sheets
+		5 Luminous Fen
+		5 Luminous Peaks
+		5 Luminous Copse

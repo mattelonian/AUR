@@ -1,0 +1,4342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>AUR</name>
+      <longname>aurora</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Hungering Lights</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hungering Lights enters or dies, exile target card from an opponent’s graveyard.</text>
+    </card>
+    <card>
+      <name>Prophetic Prism</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Prophetic Prism enters, draw a card.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Skullcreeper Blossom</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+When Skullcreeper Blossom dies, create a Treasure token. Then if your aurora has three or more colors, each opponent loses 2 life and you gain 2 life.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Gorehorn Baloth</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Scavenge 5B (5B, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Bloodmark Beetle</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Bloodmark Beetle and at least two other creatures attack, it gains flying and lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Carrion Shrieker</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch
+{1}: Carrion Shrieker gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Sporespewer</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sporespewer enters, mill two cards, then create a 1/1 black Fungus creature token with “This creature has deathtouch while attacking.”</text>
+    </card>
+    <card>
+      <name>Gore</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker. 
+Surveil 2.</text>
+    </card>
+    <card>
+      <name>Drag Below</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -3/-3 until end of turn. If that creature would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Hyperventilate</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 2, then draw two cards. You lose 2 life unless three or more colors of mana were spent to cast this spell.</text>
+    </card>
+    <card>
+      <name>Toskari Lookout</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Squirrel Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+{T}, Tap an untapped creature you control: Add one mana of any color.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Crystalglow Brute</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Crystalglow Brute can’t be blocked by creatures with power less than or equal to the number of colors in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Pinewreathed Prowler</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Plant Cat </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Pinewreathed Prowler enters, if there are two or more kinds of counters among creatures you control, draw a card.</text>
+    </card>
+    <card>
+      <name>King of the Forest</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dinosaur Elk </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When King of the Forest enters, create two 1/1 green Rabbit creature tokens.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Suffuse with Power</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +3/+3 until end of turn. Put a trample counter on it.</text>
+    </card>
+    <card>
+      <name>Predate the Skies</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact, enchantment, or creature with flying. If that permanent’s mana value was 3 or less, surveil 2.</text>
+    </card>
+    <card>
+      <name>Magmashell Turtle</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Turtle Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Reach
+As long as your aurora has three or more colors, Magmashell Turtle gets +2/+0.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Volcanic Toad</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Frog Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Volcanic Toad enters, choose one —
+• Volcanic Toad deals 2 damage to each opponent.
+• Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Dolnjar Crusher</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bear </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Trample
+When Dolnjar Crusher dies, it deals damage to each opponent equal to the number of colors in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Spirit of the Canyon</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Fox Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Spirit of the Canyon enters, return target instant or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Conflagration Wurm</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Wurm Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Volatile Leap</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+0 and gains first strike until end of turn. Aetherize it. (Create a token that’s a copy of it, then exile that token. Copies include merged parts.)</text>
+    </card>
+    <card>
+      <name>Ephemeral Civet</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat Mongoose Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When a creature scavenges Ephemeral Civet, return up to one target instant or sorcery card from your graveyard to your hand.
+Scavenge 4U (4U, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Berryfield Drakeling</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Everfrost Hawk</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Instant and sorcery spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Adventurous Ursine</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bear </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+As long as there are seven or more lands you control and/or land cards in your graveyard, Adventurous Ursine gets +1/+0 and has menace.</text>
+    </card>
+    <card>
+      <name>Wavecrash Colossus</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Wavecrash Colossus enters tapped.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Negate</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target noncreature spell.</text>
+    </card>
+    <card>
+      <name>Luminous Communion</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if there are seven or more lands you control and/or land cards in your graveyard.
+Surveil 3, then draw three cards.</text>
+    </card>
+    <card>
+      <name>Return to Aether</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. If you controlled that creature, aetherize it. (Create a token that’s a copy of it, then exile that token. Copies include merged parts.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Berry Picker</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Monkey Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Berry Picker dies, if its power was 2 or greater, draw a card.</text>
+    </card>
+    <card>
+      <name>Pack Scrounger</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Scavenge 2W (2W, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Witness of the Skies</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Squirrel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a Revelation spell, surveil 1.</text>
+    </card>
+    <card>
+      <name>Toskari Hero</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Squirrel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+When Toskari Hero enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Infused Owlbear</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Bear </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever Infused Owlbear attacks, if your aurora has three or more colors, it gains first strike until end of turn.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Dawnfeather Roc</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Protector of the Meek</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Capybara Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Protector of the Meek enters, you may return target creature card with mana value 3 or less from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Pick Off</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or artifact. If it was a token or tapped permanent, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>The Self Is A Reflection</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Sheep Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3W (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Put a +1/+1 counter on each of up to two target creatures you control. They gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Prismatic Rage</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever you cast an instant or sorcery spell, for each color in your aurora, copy it. You may choose new targets for the copy.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Coruscating Lynx</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever Coruscating Lynx attacks, you draw a card unless defending player pays X life, where X is the number of colors in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Fleeting Memories</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill seven cards. At the beginning of your next upkeep, put seven cards from your graveyard on the bottom of your library.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Lone Spirit</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+You may look at the top card of your library any time.
+As long as there are three or more colors in your aurora, you may play lands and cast creature spells from the top of your library.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Rampaging Hipposaur</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dinosaur Hippo </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell can’t be countered.
+Rampaging Hipposaur enters with your choice of a vigilance or trample counter.
+{1}, Remove a counter from Rampaging Hipposaur: It gains indestructible until end of turn. Tap it.</text>
+    </card>
+    <card>
+      <name>Stampede of Beasts</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XXG</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 green Rabbit creature token. If X is 1 or more, create a 2/2 green Wolf creature token with trample. The same is true for 2 or more and a 3/3 green Elk creature token and 3 or more and a 4/4 green Beast creature token.</text>
+    </card>
+    <card>
+      <name>Quiet Never Truly Falls</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Elk Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3GG (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Manifest from Beyond</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Copy target noncreature spell you control twice. You may choose new targets for the copies.</text>
+    </card>
+    <card>
+      <name>Crest the Stars</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>5UB</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player mills six cards. You may cast a creature card and a noncreature card not named Crest the Stars milled this way without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Stalk the Mind</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of target opponent’s library. Until the end of your next turn, you may play those cards and mana of any type can be spent to cast them.</text>
+    </card>
+    <card>
+      <name>Manablossom</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3RG</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may cast this spell for {3}. Spend only colored mana produced by effects that add mana of any color this way.
+Mill six cards, then return up to one land card, up to one creature card, and up to one noncreature nonland card milled this way to your hand.</text>
+    </card>
+    <card>
+      <name>Final Confrontation</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature unless you control a Dragon or planeswalker.
+Exile target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Hunter of Streams</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Crocodile Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you cast a noncreature spell, put a +1/+1 counter on Hunter of Streams. If this isn’t the first time this ability has resolved this turn, create a 2/1 red Crocodile creature token with menace that can’t block.</text>
+    </card>
+    <card>
+      <name>Unearthed Past</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature or land card from your graveyard to the battlefield. If a land card was returned this way, you may have it become a 6/6 Frog Golem creature with trample in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Burn the Sky Down</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Put two +1/+1 counters on target creature. It gains trample and lifelink until end of turn.
+• Return up to one target noncreature nonland card from your graveyard to your hand.
+• Discard a card. If you do, draw two cards.
+• Create two Treasure tokens.
+Exile Burn the Sky Down.</text>
+    </card>
+    <card>
+      <name>Howl of Ancestry</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target card from your graveyard to your hand. Create a 2/2 green Wolf creature token with trample.
+Exile Howl of Ancestry.</text>
+    </card>
+    <card>
+      <name>Dolnjar Terror</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Flying
+As long as your aurora has three or more colors, Dolnjar Terror has menace and haste.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Doln, End of All Things</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>10RR</manacost>
+        <cmc>12</cmc>
+        <type>Legendary Creature - Demon Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {X} less to cast, where X is the total number of instant and sorcery cards you own in exile and in your graveyard.
+Trample
+If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.</text>
+    </card>
+    <card>
+      <name>Molten Infusion</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Molten Infusion is all colors. (It can contribute any single color to an aurora.)
+Molten Infusion deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Shardback Leviathan</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Shardback Leviathan enters, if it was cast, return each other nonland permanent with mana value less than the number of land cards in your graveyard to their owners’ hands.</text>
+    </card>
+    <card>
+      <name>Manahunter Griffin</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Griffin Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever one or more creatures you control deal combat damage to a player, put that many screech counters on Manahunter Griffin.
+As an additional cost to cast spells, you may remove X screech counters from Manahunter Griffin, where X is its mana cost. If you do, copy that spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Vali&apos;s Yearning</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XUU</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw X cards.
+Search your library for a Vali card, reveal it, put it into your hand, then shuffle.
+Exile Vali’s Yearning.</text>
+    </card>
+    <card>
+      <name>Writ in Starlight</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may look at the top card of your library any time.
+You may cast instant or sorcery spells from the top of your library. When you do, you may have Writ in Starlight become an X/X Avatar creature with flying until end of turn, where X is the mana spent to cast that spell.</text>
+    </card>
+    <card>
+      <name>Aethergorged Condor</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {2} less to cast if you control an Avatar.
+Flying
+Whenever you cast an instant or sorcery spell, create a 1/1 white Bird creature token. If it was a Revelation, put a +1/+1 counter on the token.</text>
+    </card>
+    <card>
+      <name>Step Among Clouds</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creature tokens you control get +2/+2 and have flying.
+2W, Discard this: Create a tapped 3/3 green Elk creature token.</text>
+    </card>
+    <card>
+      <name>Trek Upwards</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If an opponent has more life than you, you gain 4 life. If an opponent controls more lands than you, create a Treasure token. If an opponent controls more creatures than you, create two 1/1 green Rabbit creature tokens.</text>
+    </card>
+    <card>
+      <name>Wandering Lustre</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wandering Lustre enters, choose one —
+• Put a +1/+1 counter on it.
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Surveil 2.</text>
+    </card>
+    <card>
+      <name>Eiyo&apos;s Guardian</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+{3}, Discard Eiyo’s Guardian: Draw a card and create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Igneous Tiger</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Igneous Tiger enters tapped.
+1B: Return Igneous Tiger from your graveyard to your hand. Activate only if you’ve cast a noncreature spell this turn.</text>
+    </card>
+    <card>
+      <name>Return Through Rot</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. If its power is less than 4, put +1/+1 counters on it equal to the difference.</text>
+    </card>
+    <card>
+      <name>Starvation</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures without counters on them get -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>The Mind&apos;s Eye Slips All Bonds</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Kindred Sorcery - Bat Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3B (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
+Flying</text>
+    </card>
+    <card>
+      <name>Aether Parasite</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever Aether Parasite and another creature attack, put a +1/+1 counter on Aether Parasite.</text>
+    </card>
+    <card>
+      <name>Skolweald Veteran</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Squirrel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Skolweald Veteran attacks, you may put a vigilance counter on target attacking creature you control and untap it. If it already has vigilance, put a +1/+1 counter on it instead.</text>
+    </card>
+    <card>
+      <name>Cragskin Rhino</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Rhino </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Cragskin Rhino gets +X/+X, where X is the number of colors in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Firebelly Frogan</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Frog Drake </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each kind of counter among creatures you control.
+Reach</text>
+    </card>
+    <card>
+      <name>Crystal Carapace</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +3/+3 and has ward {2}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Mire Blossoms</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+When Mire Blossoms enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+1G, Sacrifice this: Create a tapped 0/0 green Plant creature token. Put X +1/+1 counters on it, where X is the number of colors in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Memories of Forgotten Heroes</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Squirrel Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3G (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Return up to one target permanent card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Luminous Fen</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Luminous Fen enters tapped.
+When Luminous Fen enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {B}.</text>
+    </card>
+    <card>
+      <name>Luminous Peaks</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Luminous Peaks enters tapped.
+When Luminous Peaks enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>Luminous Copse</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Luminous Copse enters tapped.
+When Luminous Copse enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>Ashcrystal Moloch</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+As long as your aurora has three or more colors, Ashcrystal Moloch gets +2/+1.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Slag Gorger</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Slag Gorger has menace as long as you’ve sacrificed a Treasure this turn.</text>
+    </card>
+    <card>
+      <name>Solar Eclipse</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Solar Eclipse deals 4 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Young Hipposaur</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Dinosaur Hippo </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Young Hipposaur enters, mill two cards.
+3U, {T}: Draw a card. Activate only if there are seven or more lands you control and/or land cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Tidemare</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Tidemare attacks, if you’ve cast a noncreature spell this turn, tap up to one target creature.</text>
+    </card>
+    <card>
+      <name>Borealis Swimmer</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Illusion Drake </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Borealis Swimmer enters, you may search your library for a Revelation card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Icicle Tromper</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Ox </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {3}
+When Icicle Tromper enters, tap up to one target creature and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Fledgeling Forager</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird Bear </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Fledgeling Forager attacks, if there are two or more kinds of counters among creatures you control, it gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Polar Moose</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Polar Moose enters or a creature scavenges it, tap target creature an opponent controls.
+Scavenge 4W (4W, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Apprentice Luminant</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Squirrel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Avatars you control have lifelink and vigilance.</text>
+    </card>
+    <card>
+      <name>Run with the Spirit Pack</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack, aetherize target attacking creature you control. (Create a token that’s a copy of it, then exile that token. Copies include merged parts.)</text>
+    </card>
+    <card>
+      <name>Wayfarer&apos;s Shrine</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Prey On The Frailty of Strength</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Crocodile Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4B (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Each opponent sacrifices a creature or planeswalker. If a token was sacrificed this way, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Passion&apos;s Warmth Burns</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Kindred Sorcery - Lizard Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3R (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Passion’s Warmth Burns deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>The Careful Designs of Instinct</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Goat Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4R (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+You may discard a card. If you do, draw two cards.
+Trample</text>
+    </card>
+    <card>
+      <name>The Forest Of A Tree</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Elk Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 6G (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Search your library for a basic land, put it onto the battlefield tapped, then shuffle. You gain 3 life. </text>
+    </card>
+    <card>
+      <name>Lucent Quag</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {B}.)
+Lucent Quag enters tapped.
+When Lucent Quag enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Sundappled Cove</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U} or {R}.)
+Sundappled Cove enters tapped.
+When Sundappled Cove enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Glistering Canopy</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G}.)
+Glistering Canopy enters tapped.
+When Glistering Canopy enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Swooping Strix</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Swooping Strix enters, you may return another creature you control to its owner’s hand. (All merged parts return.)</text>
+    </card>
+    <card>
+      <name>Lies Are Themselves A Truth</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Fox Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4B (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Choose one —
+• Target opponent discards two cards.
+• You draw two cards and you lose 2 life.
+Menace</text>
+    </card>
+    <card>
+      <name>Walker of Starlit Paths</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Walker of Starlit Paths attacks, you may put a land card from your hand or graveyard onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Hellfire Maw</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+As long as your aurora has three or more colors, Hellfire Maw has menace. As long as it has five or more colors, it has double strike.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Empyrean Stalker</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Griffin </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of combat on your turn, for each +1/+1 counter on each creature you control, that creature gains your choice of vigilance, lifelink or menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Fungal Glow</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Fungal Glow enters, create two 1/1 black Fungus creature tokens with “This creature has deathtouch while attacking.”
+Whenever a creature you control dies, if it wasn’t blocking, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Frosthorn Akhos</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Elk </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever one or more creatures you control deal combat damage to a player, mill that many cards, then return a card milled this way to your hand.</text>
+    </card>
+    <card>
+      <name>The Reflection Gazes Back</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Instant - Elk Revelation </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 2WU (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Draw a card. You gain 3 life.
+Vigilance</text>
+    </card>
+    <card>
+      <name>Time&apos;s Waves Ripple</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Kindred Sorcery - Fish Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 6UU (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Take an extra turn after this one.
+Time’s Waves Ripple can’t be blocked.
+If Time’s Waves Ripple would be put into a graveyard from anywhere, exile it instead.</text>
+    </card>
+    <card>
+      <name>Permanence Is Temporary</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Phoenix Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 2RR (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Exile the top two cards of your library. You may play those cards this turn.
+Flying
+You may actualize Permanence Is Temporary from your graveyard by exiling another instant or sorcery card from your graveyard as an additional cost.</text>
+    </card>
+    <card>
+      <name>BL02 Island</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>The Unseen Eternity of Night</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Otter Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 2UB (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+When target creature you control deals combat damage to a player this turn, draw two cards.
+Menace
+Whenever The Unseen Eternity of Night attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>The Body Masters The Mind</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Rhino Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4RG (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Up to one target creature you control gets +3/+3 and must be blocked this turn if able.
+Trample
+Whenever The Body Masters The Mind attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>The Sun Rises As It Falls</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Horse Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3RW (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Create a token that’s a copy of up to one target creature you control, except it has haste. Exile the token at the beginning of the next end step. If it’s your combat phase, it enters tapped and attacking.
+Double strike
+Whenever The Sun Rises As It Falls attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>The Circle Of Life Is A Spiral</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Kindred Sorcery - Basilisk Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4BG (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Destroy up to one target nonland permanent.
+Deathtouch
+Whenever The Circle Of Life Is A Spiral attacks, you may cast an unactualized copy of it. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>The End of Infinity</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Drake Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4UR (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Target opponent may have The End of Infinity deal 4 damage to them. If that player doesn’t, you draw three cards.
+Flying
+Whenever The End of Infinity attacks, you may cast an unincarnated copy of it. (You still pay its costs.)               </text>
+    </card>
+    <card>
+      <name>The Space Between Moments</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Bird Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3WU (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+Flying
+Whenever The Space Between Moments attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>Growth Is Mere Perspective</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Hydra Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 5GU (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Draw two cards. You may put a land card from your hand onto the battlefield tapped.
+Trample
+Whenever Growth Is Mere Perspective attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>Bask in Sunlight</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Destroy target artifact or enchantment.
+• Aetherize target creature you control. (Create a token that’s a copy of it, then exile that token. Copies include merged parts.)</text>
+    </card>
+    <card>
+      <name>Veil of the Aurora</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1W/U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+4 and gains hexproof until end of turn. Then if WU was spent to cast this spell, untap it.</text>
+    </card>
+    <card>
+      <name>Touch of Flame</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1B/R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/-2 until end of turn. Then if BR was spent to cast this spell, you may discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Majestic Frosthorn</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Elk </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+3W, {T}: Tap target creature. This ability costs {1} less to activate for each kind of counter among creatures you control.</text>
+    </card>
+    <card>
+      <name>Invoke the Lights</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1G/U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards, then you may put a creature, Revelation or land card milled this way to your hand. If GU was spent to cast this spell, you may mill five cards instead.</text>
+    </card>
+    <card>
+      <name>Phoenixfire</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2R/W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Phoenixfire deals 3 damage to target attacking or blocking creature. Then if RW was spent to cast this spell, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Radiant Rebuff</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3W/B</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two +1/+1 counters on target creature. It gains indestructible until end of turn. Then if WB was spent to cast this spell, it gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Inferno Breath</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1R/G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+1 until end of turn if RG was spent to cast this spell. Then it fights target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Boreal Expanse</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {U}.)
+Boreal Expanse enters tapped.
+When Boreal Expanse enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Celestial Grotto</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {W}.)
+Celestial Grotto enters tapped.
+When Celestial Grotto enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Lifter Griffin</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Griffin </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+As a creature scavenges Lifter Griffin, put a flying counter on that creature.
+Scavenge 4W (4W, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Grassland Jackalope</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rabbit Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Grassland Jackalope enters or a creature scavenges it, you gain 2 life.
+Scavenge {W} ({W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Honeyfield Shepherd</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Ouphe </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Honeyfield Shepherd enters, put a +1/+1 and a vigilance counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Wyrmsbane</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+As a creature scavenges Wyrmsbane, put a deathtouch counter on that creature.
+Scavenge 3G (3G, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Vanguard Longsword</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+1.
+Equipped creature can’t be blocked by creatures with power 4 or greater.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Infernal Morass</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {R}.)
+Infernal Morass enters tapped.
+When Infernal Morass enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Spiring Rime</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {U}.)
+Spiring Rime enters tapped.
+When Spiring Rime enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>BL01 Plains</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL05 Forest</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL03 Swamp</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL04 Mountain</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Flowering Vista</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G} or {W}.)
+Flowering Vista enters tapped.
+When Flowering Vista enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Autumnal Thicket</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R} or {G}.)
+Autumnal Thicket enters tapped.
+When Autumnal Thicket enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Shrouded Heath</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W} or {B}.)
+Shrouded Heath enters tapped.
+When Shrouded Heath enters, you may discard a land card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Deathbloom</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1B/G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill two cards, then you may return a creature card from your graveyard to your hand. If BG was spent to cast this spell, create a 1/1 black Fungus creature token with “This creature has deathtouch while attacking.”</text>
+    </card>
+    <card>
+      <name>Ambling Dewdrop</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Ambling Dewdrop enters or dies, surveil 1.</text>
+    </card>
+    <card>
+      <name>Lustrous Lurker</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Crocodile </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+4U: Lustrous Lurker can’t be blocked this turn. This ability costs {1} less to activate for each color in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Plaguewolf</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Plaguewolf enters or a creature scavenges it, you lose 2 life.
+Scavenge 1B (1B, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Charging Visceram</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Sheep </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Charging Visceram dies or a creature scavenges it, each opponent loses 2 life.
+Scavenge 4B (4B, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Eiyo Ascendant</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Eiyo </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Create a token that’s a copy of up to one target artifact or creature you control, except it’s an artifact and loses all other types.
+[+1]: Target artifact or creature you control becomes a 3/3 Dragon creature with flying and haste in addition to its other types.
+[-3]: Eiyo deals 4 damage to target creature or planeswalker and you gain 4 life. Create X Treasure tokens, where X is the excess damage dealt this way.
+[-8]: You get an emblem with “You may cast copies of cards in your graveyard by sacrificing an artifact and exiling the card in addition to its other costs.”</text>
+    </card>
+    <card>
+      <name>Gloomstep Panther</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Menace
+As long as your aurora has three or more colors, Gloomstep Panther gets +1/+1 and has deathtouch.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>PROMO Wayfarer&apos;s Shrine</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice PROMO Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Lurking in the Shallows</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1U/B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may cast this spell as though it had flash if UB is spent to cast it.
+Create a 2/1 red Crocodile creature token with menace that can’t block.</text>
+    </card>
+    <card>
+      <name>Feverbloom</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Plant Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+When Feverbloom dies, if your aurora has three or more colors, you may pay 1 life. If you do, draw a card.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>To Fall Forever Is To Fly</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Bird Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4U (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Return up to one target instant or sorcery card from your graveyard to your hand.
+Flying</text>
+    </card>
+    <card>
+      <name>Stormshrike</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {2}
+When Stormshrike enters, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Adaptive Combat</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+1 for each kind of counter on it until end of turn. Then, it fights up to one target creature.</text>
+    </card>
+    <card>
+      <name>Autumnal Summons</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 3/3 green Elk creature token. Surveil 2.</text>
+    </card>
+    <card>
+      <name>Humiliate</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Put a +1/+1 counter on a creature you control.</text>
+    </card>
+    <card>
+      <name>Omen of Woe</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Unicorn </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Omen of Woe deals combat damage to a player, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Luminous Sheets</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Luminous Sheets enters tapped.
+When Luminous Sheets enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>The Illusion of a Chill</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Bear Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 5U (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Tap up to two target creatures and distribute three stun counters among them.</text>
+    </card>
+    <card>
+      <name>Reefcrown Drake</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Jellyfish Plant Drake </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess, ward {1}
+Reefcrown Drake can’t be blocked by creatures with power less than or equal to the total number of instant and sorcery cards you own in exile and in your graveyard.</text>
+    </card>
+    <card>
+      <name>Efferpheasant</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast an instant or sorcery spell, you gain 1 life and draw a card. Then discard a card unless it was a Revelation spell.</text>
+    </card>
+    <card>
+      <name>Bloomwarden</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bear </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Trample
+As long as your aurora has three or more colors, Bloomwarden gets +2/+2.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Vali the Curious</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Vali </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Draw a card, then discard a card unless you’ve cast an instant or sorcery spell this turn.
+[-2]: Exile target instant or sorcery card from a graveyard and copy it. You may cast the copy and mana of any type can be spent to cast it.
+[-6]: For each player, search their library for an instant or sorcery card, exile it, then shuffle that library. You may cast any number of cards exiled this way without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>Treetop Pangolin</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Pangolin </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Treetop Pangolin enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>The Moon Howls Back</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Kindred Sorcery - Wolf Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 5G (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Create two 2/2 green Wolf creature tokens with trample.</text>
+    </card>
+    <card>
+      <name>Aether Scrounger</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hyena </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever Aether Scrounger attacks, it gets +1/+0 until end of turn. If your aurora has three or more colors, it gets +2/+0 until end of turn instead.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Elemental Burst</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2U/R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 blue Elemental creature tokens with prowess. Then if UR was spent to cast this spell, create a tapped Treasure token.</text>
+    </card>
+    <card>
+      <name>Tectonic Hazard</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tectonic Hazard deals 1 damage to each opponent and each creature they control.</text>
+    </card>
+    <card>
+      <name>Fox of the Verdant Grove</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fox </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Light Too Casts Shadow</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Cat Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 2WB (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.
+Lifelink
+Whenever Light Too Casts Shadow attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>Kitstealer</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kitstealer enters, up to one target creature gets +2/+0 and gains deathtouch until end of turn. 
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Flamewalker Hart</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elk Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Glimmerstalker</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Glimmerstalker gets +1/+1 as long as you’ve cast a spell that’s white, blue, black, or green this turn.</text>
+    </card>
+    <card>
+      <name>Myriad Shades of Silence</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Bird Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3U (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Mill three cards, then you may put a card milled this way to your hand.
+Flying</text>
+    </card>
+    <card>
+      <name>The Unending Never Began</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Snake Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 5BB (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Destroy target creature. If this spell was actualized, gain control of it instead.
+Deathtouch</text>
+    </card>
+    <card>
+      <name>Become What Always Was</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Sheep Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3GW (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Search your library for a creature card, reveal that card, put it into your hand, then shuffle.
+Vigilance
+Whenever Become What Always Was attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>Skolweald Vanguard</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Squirrel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Skolweald Vanguard dies, create a 1/1 white Squirrel creature token with vigilance.</text>
+    </card>
+    <card>
+      <name>A Calm Rage Simmers</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Ape Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4R (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Gain control of up to one target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Pouncing Jackewolf</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rabbit Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Pouncing Jackewolf enters with your choice of a trample or reach counter.</text>
+    </card>
+    <card>
+      <name>Rocktusk Boar</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Boar Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rocktusk Boar dies, surveil 1, then create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Alexa, Whose Steps Blossom</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Alexa </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+[+1]: Put a +1/+1 counter on up to one target creature. If your aurora has three or more colors, it gains vigilance, trample and haste until end of turn.
+[-2]: Create a tapped colorless land token with all basic land types.
+[-2]: Create a 0/0 green Plant creature token. Put X +1/+1 counters on it, where X is the number of colors in your aurora.</text>
+    </card>
+    <card>
+      <name>Parasitize</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+0 and gains deathtouch until end of turn. When that creature dies this turn, create a 1/1 black Fungus creature token with “This creature has deathtouch while attacking.”</text>
+    </card>
+    <card>
+      <name>Hunted by the Pack</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each creature you’ve attacked with this turn.
+Target creature gets -4/-4 until end of turn.</text>
+    </card>
+    <card>
+      <name>Gemeye Crab</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+As long as you control an Avatar, Gemeye Crab gets +1/+1 and can attack as though it didn’t have defender.</text>
+    </card>
+    <card>
+      <name>Dreadbore</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Tunnelling Slugmole</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Slug Mole </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tunnelling Slugmole enters or a creature scavenges it, you may discard a card. If you do, draw a card.
+Scavenge 3R (3R, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Silence of the Drowned</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target spell unless its controller pays {2}.
+• Tap target permanent. If it’s a creature, it doesn’t untap during its controller’s next untap step. </text>
+    </card>
+    <card>
+      <name>Distraction</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+When Distraction enters, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Transfixed by Wonder</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell costs {2} less to cast if you control an Avatar.
+Enchant creature
+Enchanted creature can’t attack or block, and its activated abilities can’t be activated.</text>
+    </card>
+    <card>
+      <name>Curiosity</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.</text>
+    </card>
+    <card>
+      <name>Light of the Phoenix</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature you control. It gains haste until end of turn. Exile it at the beginning of the next end step. (Copies include merged parts.)</text>
+    </card>
+    <card>
+      <name>Crystal Breath</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Crystal Breath deals 4 damage to any nonplayer target.
+Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Aetherflame Hunting</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to two target creatures each get +1/+0 and gain trample until end of turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Violent Thrash</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Target player creates a 2/1 red Crocodile creature token with menace that can’t block.
+• Destroy up to one target artifact.
+• Up to two target creatures can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Aether Figment</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Flying
+As long as your aurora has three or more colors, Aether Figment gets +1/+1.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Verdant Bloom</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+When Verdant Bloom enters, mill three cards. You may put a land card from among the cards milled this way into your hand.
+Enchanted land has “{T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Imbued with Aether</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+1.
+When Imbued with Aether enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Eddies In The Stream Of Fate</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Serpent Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 5U (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Draw two cards.
+Whenever Eddies In The Stream Of Fate deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Unity Through Difference</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Kindred Sorcery - Cat Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4WW (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Each player chooses a creature they control. Destroy the rest.</text>
+    </card>
+    <card>
+      <name>Peculiar Pollywogs</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Frog </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Peculiar Pollywogs has flying as long as you’ve cast an instant or sorcery spell this turn.
+Whenever Peculiar Pollywogs deals combat damage to a player, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Only Love Births True Hate</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Sorcery - Ox Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 3BR (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Up to one target creature gets -2/-2 until end of turn. If it would die this turn, exile it instead.
+Menace
+Whenever Only Love Births True Hate attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>Toskari Aetherblade</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Equipped creature gets +3/+3.
+Equip {5}. This ability costs {1} less to activate for each color in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Nurturing Shelter</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+1 and gains hexproof until end of turn. If there are seven or more lands you control and/or land cards in your graveyard, it gets +4/+4 and gains hexproof instead.</text>
+    </card>
+    <card>
+      <name>Pondstepper Chick</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a land enters under your control, you gain 1 life and surveil 1.
+As long as there are seven or more lands you control and/or land cards in your graveyard, Pondstepper Chick gets +1/+1 and has flying.</text>
+    </card>
+    <card>
+      <name>Repel with Flame</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one. If you’ve cast another instant or sorcery spell this turn, you may choose both instead.
+• Counter target spell unless its controller pays {2}.
+• Draw two cards, then discard a card. Repel with Flame deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Winter&apos;s Stash</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment. If it had mana value less than 4, create a number of 1/1 white Squirrel tokens with vigilance equal to the difference.</text>
+    </card>
+    <card>
+      <name>Vulpine Razer</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Fox </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever you cast an instant or sorcery spell, it gains lifelink. If there are three or more colors in your aurora, it gains deathtouch. If there are five or more, copy it. You may choose new targets for the copy.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Hydroid Krasis</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>XGU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Jellyfish Hydra Beast </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast this spell, you gain half X life and draw half X cards. Round down each time.
+Flying, trample
+Hydroid Krasis enters with X +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Mold Frog</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fungus Frog </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Mold Frog can’t block.
+At the beginning of combat on your turn, you may sacrifice a token. If you do, return Mold Frog from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Refraction Lynx</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever you cast an instant or sorcery spell that targets Refraction Lynx, you may copy that spell. You may choose new targets for the copy. (This includes incarnated spells.)</text>
+    </card>
+    <card>
+      <name>Ascend</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+When Ascend enters, enchanted creature phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)
+Enchanted creature has flying and ward {2}.</text>
+    </card>
+    <card>
+      <name>Glow</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If you’ve attacked this turn, surveil 2.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Toskari Trueshot</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Squirrel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+When Toskari Trueshot becomes the target of a spell or ability you control for the first time each turn, you may create a 1/1 white Squirrel creature token with vigilance.</text>
+    </card>
+    <card>
+      <name>Essence Gouger</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+5B, {T}: Each opponent loses 3 life. This ability costs {1} less to activate for each color in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Quag Festerer</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more creatures you control deal combat damage to a player, you may pay 1 life. If you do, put a +1/+1 counter on Quag Festerer.</text>
+    </card>
+    <card>
+      <name>Bloodleecher Drake</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire Drake </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+When Bloodleecher Drake enters, return up to one target non-Vampire creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Effigy of Tranquility</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+As long as there are three or more colors in your aurora, Effigy of Tranquility is a 3/3 Frog Golem creature in addition to its other types.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Effigy of Shelter</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Wolf Golem </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Effigy of Shelter gets +2/+2 as long as there are five or more basic land types among lands you control.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Autumn Strider</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elk Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+As long as your aurora has three or more colors, Autumn Strider gets +2/+2.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Simul, Aether Scholar</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Simul </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play basic land cards you own from outside the game.
+[+1]: Draw a card, then discard a card. If you discard a nonland card this way, put a loyalty counter on a planeswalker you control.
+[-6]: For each land you control, put your choice of a +1/+1 or loyalty counter on another creature or planeswalker you control.</text>
+    </card>
+    <card>
+      <name>Suffocate in Aether</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Enchanted creature gets -X/-X, where X is one plus the number of colors in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Shadecrawler</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Fungus Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever another creature you control dies, put a +1/+1 counter on Shadecrawler.</text>
+    </card>
+    <card>
+      <name>Shimmer Pack</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Shimmer Pack enters, if it was cast, aetherize target creature you control. (Create a token that’s a copy of it, then exile that token. Copies include merged parts.)</text>
+    </card>
+    <card>
+      <name>Keep Vigil</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Keep Vigil enters, exile target creature or planeswalker an opponent controls until Keep Vigil leaves the battlefield.
+At the beginning of your end step, if you don’t control a creature with power 2 or less, sacrifice Keep Vigil.</text>
+    </card>
+    <card>
+      <name>Spirits&apos; Protection</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {U} less to cast if you control an Avatar.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>Vorzanthirax, the Riftdweller</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Once each turn, you may cast a spell with mana value less than or equal to the number of colors in your aurora without paying its mana cost.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Aether Invigoration</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each creature you control. They gain trample and lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Wings of the Aurora</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+1 and gains flying until end of turn.
+Exile the top card of your library. You may play it until end of turn.</text>
+    </card>
+    <card>
+      <name>Gemstone Tyrant</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+When Gemstone Tyrant dies, you may discard your hand. If you do, draw a card for each color in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Return from Ash</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return from Ash deals 2 damage to each creature and each planeswalker.
+Return up to one creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Firemane Charger</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Unicorn </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, haste
+Whenever Firemane Charger attacks, aetherize another target creature you control. (Create a token that’s a copy of it, then exile that token. Copies include merged parts.)</text>
+    </card>
+    <card>
+      <name>Gilded Flower</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{3}, {T}: You gain 1 life and surveil 1.</text>
+    </card>
+    <card>
+      <name>Borewurm</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Borewurm gets +1/+0 for each land type among lands you don’t control.</text>
+    </card>
+    <card>
+      <name>Rend and Tear</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Rend and Tear deals twice X damage to any nonplayer target. If X is 4 or more, create a 2/1 red Crocodile creature token with menace that can’t block.</text>
+    </card>
+    <card>
+      <name>Cruel Survival</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Cruel Survival enters, target creature you control fights target creature you don’t control.
+Whenever a creature you control deals excess damage, mill that many cards, then return up to one creature or land card milled this way to your hand.</text>
+    </card>
+    <card>
+      <name>Phantasmal Stride</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if a creature you control dealt combat damage to an opponent this turn.
+Return target creature to its owner’s hand. Its controller discards a card.</text>
+    </card>
+    <card>
+      <name>Spirits of the Weald</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4GU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 3/3 green Elk creature tokens. For each land card in your graveyard, distribute a vigilance, reach or trample counter among them.</text>
+    </card>
+    <card>
+      <name>Fluffle</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1G/W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 green Rabbit creature tokens. Then if GW was spent to cast this spell, distribute a vigilance and a trample counter among them.</text>
+    </card>
+    <card>
+      <name>Luminous Pasture</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Luminous Pasture enters tapped.
+When Luminous Pasture enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {W}.</text>
+    </card>
+    <card>
+      <name>Start Over</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard any number of cards, then draw that many cards plus one.
+Create a Treasure token.</text>
+    </card>
+    <card>
+      <name>The Dreadmold</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When The Dreadmold enters, create two 1/1 black Fungus creature token with “This creature has deathtouch while attacking.”
+Whenever a token creature you control dies, create a tapped colorless Swamp Forest land token.</text>
+    </card>
+    <card>
+      <name>Askalla, Stars&apos; Conduit</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Squirrel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If a spell would incarnate onto Askalla, put it onto the battlefield as an Avatar creature instead.
+Whenever a card is put into your graveyard from the battlefield, you may cast a copy of it without paying its mana cost if it’s a Revelation.</text>
+    </card>
+    <card>
+      <name>Skorag, Toskari Elder</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Squirrel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, creatures you control gain vigilance until end of turn if there is a vigilance counter on a creature you control. The same is true for each other kind of keyword counter and +1/+1 counters.</text>
+    </card>
+    <card>
+      <name>Banefeather Griffin</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Griffin </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch, lifelink
+When a creature scavenges Banefeather Griffin, it gains flying, deathtouch and lifelink until end of turn.
+Scavenge 1WB (1WB, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Chosen of the Heavens</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Squirrel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Chosen of the Heavens attacks, if there are two or more kinds of counters among creatures you control, create a 1/1 white Squirrel creature token with vigilance.</text>
+    </card>
+    <card>
+      <name>Craneriders</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Squirrel Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+As Craneriders or another creature enters under your control, put a counter on it that hasn’t been chosen yet —
+• +1/+1                      • Vigilance 
+• Lifelink                    • Trample
+• Deathtouch              • Ward {2}</text>
+    </card>
+    <card>
+      <name>Beyond the Aurora</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>5GU</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may pay WUBRG rather than pay this spell’s mana cost.
+Whenever you cast a noncreature spell, create a colorless 0/0 Beast Avatar creature token. If that spell was a Revelation, instead create a token that’s a copy of it, except it’s an Avatar creature. Put X +1/+1 counters on it, where X is the amount of mana spent to cast that spell.</text>
+    </card>
+    <card>
+      <name>Lifestep Caribou</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3RG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Elk </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever a creature you control deals combat damage to a player, put X +1/+1 counters on it, where X is the number of colors in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>The Still Breeze Blows</name>
+      <set rarity="common">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Bird Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4W (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Create two 1/1 white Bird creature tokens with flying.
+Flying</text>
+    </card>
+    <card>
+      <name>Dawn&apos;s Inexorable Creep</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Kindred Sorcery - Bird Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 5W (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Exile up to one target creature if it’s tapped or this spell was incarnated.
+Flying</text>
+    </card>
+    <card>
+      <name>A Fragment Contains The Whole</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Sorcery - Ox Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incarnate 4W (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Reveal the top six cards of your library. You may put a creature card with mana value 2 or less revealed this way onto the battlefield with a +1/+1 counter and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Transplanar Epiphany</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast planeswalker spells you own from outside the game.</text>
+    </card>
+    <card>
+      <name>Territorial Arnyx</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Lizard Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Sacrifice Territorial Arnyx: Target creature you control gains indestructible until end of turn.
+Scavenge 3WW (3WW, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Aspect of Radiance</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+When Aspect of Radiance enters, it deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Eiyo&apos;s Understanding</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile up to one target creature you control. Return it to the battlefield under its owner’s control at the beginning of the next end step.
+Search your library for an Eiyo card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Alexa&apos;s Catharsis</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to one target creature gets +3/+1 until end of turn. Put a trample counter on it.
+Search your library for an Alexa card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Wei Ji&apos;s Judgement</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>All creatures get -3/-3 until end of turn. You gain 3 life.
+Search your library for a Ji card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Beyond the Aurora Card Pack</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Prowling Wolfshark</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shark Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Prowling Wolfshark can’t be blocked unless each other attacking creature you control is blocked.
+Whenever Prowling Wolfshark deals combat damage to a player, surveil 2.</text>
+    </card>
+    <card>
+      <name>Celestial Swallower</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Serpent Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aurora (At your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever Celestial Swallower enters or attacks, create a 0/0 colorless Beast Avatar creature token. Put X +1/+1 counters on it, where X is the number of colors in your aurora.</text>
+      <related>tag Aurora Reminder</related>
+    </card>
+    <card>
+      <name>Unbreakable Ironhide</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When a creature scavenges Unbreakable Ironhide, you may play it as long as it remains exiled.
+Scavenge 2BB (2BB, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Frostarmor Wolf</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Frostarmor Wolf has first strike as long as it’s attacking.
+Counters on other creatures you control are shield counters in addition to their other kinds. (If a creature would be dealt damage or destroyed, remove a counter from it instead.) (If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Forgotten Idol</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cards outside the game can’t enter the game.
+Activated abilities of planeswalkers cost an additional {-1} to activate.
+{1}, {T}, Sacrifice Forgotten Idol: Add one mana of any color. Draw a card.</text>
+    </card>
+    <card>
+      <name>Herald the End</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep and whenever you cast a noncreature spell, put a doom counter on Herald the End. Then if it has seven or more doom counters on it, sacrifice it and create three 1/1 blue Elemental creature tokens with prowess.</text>
+    </card>
+    <card>
+      <name>Simul&apos;s Exploration</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two basic land types. For each, create a tapped basic land token with that type.
+Search your library for a Simul card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Florescence</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each land you don’t control, create a tapped token that’s a copy of it.</text>
+    </card>
+    <card>
+      <name>Perdition Mare</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Unicorn </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Perdition Mare enters or attacks, mill four cards. When you do, choose up to X, where X is the number of colors among cards milled this way.
+• Perdition Mare gains menace until end of turn.
+• Put a +1/+1 counter on Perdition Mare.
+• Each opponent loses 1 life and you gain 1 life.
+• Target creature gets -1/-1 until end of turn.
+• You draw a card and you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Wei Ji of the Veil</name>
+      <set rarity="mythic">AUR</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Ji </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Surveil 2. If you mill a nonland card this way, create a 1/1 white Bird creature token with flying.
+[0]: Sacrifice a creature. If you do, return a creature card with mana value less than or equal to the sacrificed creature’s power to the battlefield.
+[-2]: Target creature gets -2/-2 until end of turn. Put two +1/+1 counters on up to one target creature you control.</text>
+    </card>
+    <card>
+      <name>Infected Touch</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control with deathtouch deals combat damage to a player, that player loses 3 life unless they discard a card or sacrifice a nonland permanent.</text>
+    </card>
+    <card>
+      <name>Aetherflame Pouncer</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would aetherize a creature, create a token that’s a copy of it instead. That tokens gains haste. If it’s your combat phase, it enters tapped and attacking. Exile it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Fall for the Bait</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to any nonplayer target. If excess damage was dealt this way, surveil 2.</text>
+    </card>
+    <card>
+      <name>Seek the Rift</name>
+      <set rarity="rare">AUR</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a instant or sorcery card, reveal it, put it into your hand, then shuffle. If it’s a Revelation, create a 2/2 blue Bear creature token.</text>
+    </card>
+    <card>
+      <name>BL10 Forest</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL09 Mountain</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL08 Swamp</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL06 Plains</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL07 Island</name>
+      <set rarity="">AUR</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Dandecrab</name>
+      <set rarity="uncommon">AUR</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Crab </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G}. If Dandecrab’s power is 2 or greater, add GG instead.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>TKN Elk</name>
+      <set>AUR</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Wolf</name>
+      <set>AUR</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Bird</name>
+      <set>AUR</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Elemental</name>
+      <set>AUR</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Rabbit</name>
+      <set>AUR</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Rabbit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>AUR DRAFT ARCHETYPES</name>
+      <set>AUR</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>WU REVELATIONS Witness the majesty of the ascendant by turning your small creatures and spells into powerful combinations!
+UB SABOTEURS Predate the night by slinking past your opponent’s blockers and going for the life total directly.
+BR AURORA CONTROL Play the long game as you remove threats, cast off-color spells and accrue value until your aurora is complete.
+RG AURORA MIDRANGE Beat your opponent down with on-curve threats then boost them all with your aurora!
+GW ABILITY COUNTERS Have your creatures share their abilities for the good of the collective as you capitalize off different counters.
+WB +1/+1 COUNTERS Scavenge the flesh of the dead to grow your threats. Your opponent’s life total is next!
+BG GO-WIDE Grow your board before you infect them all with a fungal buff to swing for lethal.
+GU LANDS Put lands in your graveyard and onto the battlefield to cast your huge threats faster!
+UR SPELLSLINGER AGGRO Use elemental infusions to blast your opponent with spells before they can react.
+RW BLINK Aetherize and reuse your powerful enters effects until nobody can compete with the value.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Plant</name>
+      <set>AUR</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Beast</name>
+      <set>AUR</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Treasure</name>
+      <set>AUR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Aurora Reminder</name>
+      <set>AUR</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Land</name>
+      <set>AUR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land is a Plains, Island, Swamp, Mountain, and Forest.
+({T}: Add one mana of any color.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Fungus</name>
+      <set>AUR</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature has deathtouch while attacking.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Crocodile</name>
+      <set>AUR</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Crocodile </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Beast Avatar</name>
+      <set>AUR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Beast Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Swamp Forest</name>
+      <set>AUR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Land - Swamp Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B} or {G}.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Bear</name>
+      <set>AUR</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Bear </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>TKN Squirrel</name>
+      <set>AUR</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Squirrel </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
